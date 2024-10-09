@@ -1,0 +1,47 @@
+{
+	"folders": [
+		{
+			"path": "../../../Programming/DSA"
+		},
+		{
+			"path": "../../../Programming/dsa prac"
+		},
+		{
+			"path": "../../../Programming/fun projects"
+		},
+		{
+			"path": "../../../Programming/OOPS 3rd Sem"
+		},
+		{
+			"path": "../../../Programming/C/DS 3rd Sem"
+		},
+		{
+			"path": "../../../Programming/JS Sem 3"
+		},
+		{
+			"path": "../../../syllabus"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"ostream": "cpp",
+			"array": "cpp",
+			"initializer_list": "cpp",
+			"utility": "cpp",
+			"new": "cpp",
+			"algorithm": "cpp",
+			"atomic": "cpp",
+			"cwchar": "cpp",
+			"string": "cpp",
+			"exception": "cpp",
+			"random": "cpp",
+			"iosfwd": "cpp",
+			"istream": "cpp",
+			"stdexcept": "cpp",
+			"streambuf": "cpp",
+			"type_traits": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "JS Sem 3"
+	}
+}
